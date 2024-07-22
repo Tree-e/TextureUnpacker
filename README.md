@@ -1,2 +1,0 @@
-# TextureUnpacker
-Unpacker atlas.
